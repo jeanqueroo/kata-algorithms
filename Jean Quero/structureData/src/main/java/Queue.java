@@ -1,4 +1,3 @@
-import java.util.Arrays;
 
 public class Queue {
 
@@ -29,13 +28,14 @@ public class Queue {
 
     public static void main(String[] args) {
         Queue queue = new Queue(6);
-        queue.insert("2");
-        queue.insert("3");
-        queue.insert("7");
-        queue.insert("1");
-        queue.insert("6");
-        queue.display();
+       // queue.insert("2");
+     //   queue.insert("3");
+     //   queue.insert("7");
+     //   queue.insert("1");
+     //   queue.insert("6");
+     //   queue.display();
     }
+
 
 
 }
